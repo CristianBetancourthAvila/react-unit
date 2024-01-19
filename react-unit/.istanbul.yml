@@ -1,0 +1,3 @@
+instrumentation:
+  root: true
+  include-all-sources: true
