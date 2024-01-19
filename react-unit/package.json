@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "test": "jest --config jest.config.cjs",
-    "coverage": "istanbul cover jest --config jest.config.cjs"
+    "coverage": "nyc jest --config jest.config.cjs"
   },
   "dependencies": {
     "@babel/preset-env": "^7.22.4",
@@ -29,6 +29,7 @@
     "istanbul-lib-coverage": "^3.2.2",
     "jest": "^29.7.0",
     "jest-environment-jsdom": "^29.5.0",
+    "nyc": "^15.1.0",
     "postcss": "^8.4.21",
     "react-testing-library": "^8.0.1",
     "tailwindcss": "^3.2.7",
