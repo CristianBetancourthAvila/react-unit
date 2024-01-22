@@ -1,4 +1,4 @@
-import {compareDate} from '../date'
+import {compareDate} from '../utils/date'
 
 describe('compareDate', () => {
     it('should return true if the second date is greater than the first date', () =>{

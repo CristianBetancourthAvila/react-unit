@@ -1,4 +1,4 @@
-import { totalPrice } from "..";
+import { totalPrice } from "../utils/index";
 
 describe('totalPrice', () => {
     it('should return 0 when no product is passed', () =>{

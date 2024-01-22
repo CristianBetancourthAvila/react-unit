@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="C:\Users\cristianbetancourth\Desktop\Semillero\Entregables\Mes 3\Jenkins Shraed Libreries\app\react-unit\react-unit\src\utils\__test__\util.test.js">
+    <testCase name="totalPrice should return 0 when no product is passed" duration="20"/>
+    <testCase name="totalPrice should return the total price of a single product" duration="1"/>
+    <testCase name="totalPrice should return the total price of multiple products" duration="1"/>
+  </file>
+  <file path="C:\Users\cristianbetancourth\Desktop\Semillero\Entregables\Mes 3\Jenkins Shraed Libreries\app\react-unit\react-unit\src\utils\__test__\date.test.js">
+    <testCase name="compareDate should return true if the second date is greater than the first date" duration="24"/>
+  </file>
+</testExecutions>
